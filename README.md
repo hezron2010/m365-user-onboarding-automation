@@ -4,15 +4,26 @@
 Automates onboarding of new employees in Microsoft 365. Supports scaling remote teams.
 
 ## Features
-- Create Azure AD accounts
-- Assign Microsoft 365 licenses
-- Add users to Teams & SharePoint groups
-- Generate onboarding checklist
+- Creates Azure AD user accounts
+- Assigns Microsoft 365 licenses
+- Adds user to Teams and SharePoint groups
+- Generates onboarding checklist
+
+## Benefits
+- Supports multiple simultaneous onboarding
+- Reduces errors and downtime
+- Ensures consistent access and permissions
 
 ## Tech
-- PowerShell, Azure AD, Microsoft 365
+- PowerShell
+- Azure AD / Entra ID
+- Microsoft 365
 
 ## Usage
-1. Customize CSV with new employee details
-2. Run onboarding.ps1 in PowerShell
-3. Verify accounts and group access
+1. Customize the CSV file with new employee details.
+2. Run `onboarding.ps1` in PowerShell with admin privileges.
+3. Verify that users have been added to Teams, SharePoint, and assigned licenses.
+
+## Screenshots
+*(Optional: include images of workflow or script output)*
+
