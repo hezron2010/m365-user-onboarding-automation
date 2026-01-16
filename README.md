@@ -24,6 +24,5 @@ Automates onboarding of new employees in Microsoft 365. Supports scaling remote 
 2. Run `onboarding.ps1` in PowerShell with admin privileges.
 3. Verify that users have been added to Teams, SharePoint, and assigned licenses.
 
-## Screenshots
-*(Optional: include images of workflow or script output)*
+
 
